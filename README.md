@@ -4,9 +4,11 @@ Télécharger et installer YattaTv sur une NVIDIA Shield ou une box Android TV c
 
 **[Télécharger YattaTv.apk](https://github.com/madouyatt95/yattatv-download/releases/latest/download/YattaTv.apk)** · [Toutes les versions](https://github.com/madouyatt95/yattatv-download/releases)
 
+**Code Downloader : `2828478`** · [Lien court à partager](https://aftv.news/2828478) · [Vérifier la destination du code](https://aftv.news/2828478+)
+
 ## Installer
 
-1. Télécharger `YattaTv.apk` depuis le lien ci-dessus, ou ouvrir ce même lien dans l'application **Downloader** sur la box.
+1. Sur la box, ouvrir **Downloader**, saisir **2828478** et valider. On peut également télécharger `YattaTv.apk` directement depuis le lien ci-dessus.
 2. Si Android le demande, autoriser Downloader à installer des applications.
 3. Confirmer l'installation, puis ouvrir **YattaTv** depuis la liste des applications.
 
@@ -16,7 +18,7 @@ Configuration minimale : Android TV 8.0 (Android 8.0 / API 26). La version 0.18.
 
 Réutiliser le lien de téléchargement pour obtenir la dernière version. Installer la nouvelle APK par-dessus l'application existante afin de conserver les réglages. Ne pas désinstaller l'application avant la mise à jour.
 
-Une nouvelle publication sur GitHub ne déclenche pas à elle seule l'installation automatique sur la box. Chaque version conserve le nom de fichier `YattaTv.apk` pour que le lien ci-dessus reste valable.
+Une nouvelle publication sur GitHub ne déclenche pas à elle seule l'installation automatique sur la box. Chaque version conserve le nom de fichier `YattaTv.apk` pour que le lien et le code Downloader ci-dessus restent valables.
 
 ## Connexion et DNS
 
