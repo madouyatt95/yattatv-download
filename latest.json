@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "versionName": "0.18.4",
+  "versionCode": 31,
+  "apk": {
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.18.4/YattaTv.apk",
+    "size": 13300750,
+    "sha256": "2e1dc1e8f470ccfce6a9c24d26f3d164384646257f81fd392c659a5e4c9908d2",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/726828688"
+  },
+  "notes": "Mises à jour depuis YattaTv, DNS au premier lancement, menu Favoris / Direct / Cinéma / Guide TV / Réglages et navigation plus réactive."
+}
