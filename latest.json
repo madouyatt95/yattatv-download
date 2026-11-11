@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.19.5",
-  "versionCode": 38,
+  "versionName": "0.19.6",
+  "versionCode": 40,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.19.5/YattaTv.apk",
-    "size": 13372985,
-    "sha256": "366686e61e468e842542df33699caa355c000e7131000780983b872235338da8",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/734278388"
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.19.6/YattaTv.apk",
+    "size": 13384273,
+    "sha256": "f760df61af58465fc9e95858732613ed0a34d213d4cdaabd2875572e54608b8d",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/735444831"
   },
-  "notes": "Son automatique sur ZonaLive, secours du direct, aperçus avant le plein écran, catalogues Films et Séries avec défilement continu et filtres cumulables, reprise par épisode et menu latéral accessible avec Retour."
+  "notes": "Nouvel accueil TV avec grandes icônes, dernière chaîne, favoris et contenus à reprendre. Mises à jour plus lisibles : versions, nouveautés, progression en pourcentage et Mo, erreurs détaillées. Contrôle préalable de signature corrigé ; validation finale conservée par Android."
 }
