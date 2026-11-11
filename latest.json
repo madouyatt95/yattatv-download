@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.19.8",
-  "versionCode": 44,
+  "versionName": "0.19.9",
+  "versionCode": 46,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.19.8/YattaTv.apk",
-    "size": 13395418,
-    "sha256": "ed5817a3324cd824f53b36f33361e0653e70320ba4bf16f2ce60017a07fca879",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/735860691"
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.19.9/YattaTv.apk",
+    "size": 13397322,
+    "sha256": "21041e3639f78bdb9953aeccc7cbde37a5cdabc71a204a26040860a9cdd14a92",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/735924034"
   },
-  "notes": "Le menu latéral garde l’aperçu à la même taille. La liste réutilise ses lignes et charge les logos en arrière-plan. YattaTv prépare le lecteur web à l’ouverture du Direct et réduit le travail effectué pendant la lecture."
+  "notes": "Plein écran remplace Revenir au direct dans l’aperçu. Quatre vignettes de chaînes précédentes avec leurs logos remplacent le bouton Précédente en plein écran. Les catégories se masquent au lancement d’une chaîne et réapparaissent avec Retour, sans changer la taille de la vidéo."
 }
