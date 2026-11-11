@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.19.7",
-  "versionCode": 42,
+  "versionName": "0.19.8",
+  "versionCode": 44,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.19.7/YattaTv.apk",
-    "size": 13390438,
-    "sha256": "d7ca76dc89b25f284672fd1e7f2bba6197e4dcaf041c52278d1760d86ca4d333",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/735702375"
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.19.8/YattaTv.apk",
+    "size": 13395418,
+    "sha256": "ed5817a3324cd824f53b36f33361e0653e70320ba4bf16f2ce60017a07fca879",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/735860691"
   },
-  "notes": "Bouton Via Downloader pour ouvrir le lien de mise à jour directement. Revenir au direct reprend la lecture et tente un seul rechargement si nécessaire. Logo YattaTv au chargement, démarrage LiveWatch plus réactif et tampon initial réduit pour les flux natifs."
+  "notes": "Le menu latéral garde l’aperçu à la même taille. La liste réutilise ses lignes et charge les logos en arrière-plan. YattaTv prépare le lecteur web à l’ouverture du Direct et réduit le travail effectué pendant la lecture."
 }
