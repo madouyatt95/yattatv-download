@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.19.9",
-  "versionCode": 46,
+  "versionName": "0.20.3",
+  "versionCode": 54,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.19.9/YattaTv.apk",
-    "size": 13397322,
-    "sha256": "21041e3639f78bdb9953aeccc7cbde37a5cdabc71a204a26040860a9cdd14a92",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/735924034"
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.20.3/YattaTv.apk",
+    "size": 13488561,
+    "sha256": "ce251869847564c36a8c8182a4ace5c261c2a085ffc03faadb8d8f9251c3c5af",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/737937292"
   },
-  "notes": "Plein écran remplace Revenir au direct dans l’aperçu. Quatre vignettes de chaînes précédentes avec leurs logos remplacent le bouton Précédente en plein écran. Les catégories se masquent au lancement d’une chaîne et réapparaissent avec Retour, sans changer la taille de la vidéo."
+  "notes": "Espace Animés avec catalogue, recherche, suivi et reprise. Grandes fiches Films/Séries/Animés, saisons à gauche et épisodes illustrés. Panneau d’épisodes pendant la lecture. Quitter ferme complètement YattaTv sans revenir sur le menu ou Animés."
 }
