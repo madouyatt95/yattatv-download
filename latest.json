@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.20.3",
-  "versionCode": 54,
+  "versionName": "0.20.4",
+  "versionCode": 56,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.20.3/YattaTv.apk",
-    "size": 13488561,
-    "sha256": "ce251869847564c36a8c8182a4ace5c261c2a085ffc03faadb8d8f9251c3c5af",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/737937292"
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.20.4/YattaTv.apk",
+    "size": 13492925,
+    "sha256": "1dd6da0e7284eba064431314af0c66ca3c0f55d13e37d9ca3db070eef1078da4",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/738802322"
   },
-  "notes": "Espace Animés avec catalogue, recherche, suivi et reprise. Grandes fiches Films/Séries/Animés, saisons à gauche et épisodes illustrés. Panneau d’épisodes pendant la lecture. Quitter ferme complètement YattaTv sans revenir sur le menu ou Animés."
+  "notes": "Fiches Films/Séries/Animés avec saisons et épisodes sur la même page, lignes illustrées et défilement amélioré. Accueil enrichi, recherche commune avec historique et saisie mobile, temps restant des programmes TV. Signature et réglages conservés."
 }
