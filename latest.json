@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.20.8",
-  "versionCode": 57,
+  "versionName": "0.21.1",
+  "versionCode": 60,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.20.8/YattaTv.apk",
-    "size": 13871686,
-    "sha256": "da58b4add9d26ae99eff9470adbd6daf6ad0a9a177872f4a7cb1a6aebf900da0",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/741498082"
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/untagged-7ff83960de2479749714/YattaTv.apk",
+    "size": 13906837,
+    "sha256": "471eed30383759e56c00341034aed204219c99923e496bdd2eb550ce891decb9",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/741755570"
   },
-  "notes": "ZonaLive : démarrage automatique sous le logo. Accueil personnalisable, reprises Films/Séries/Animés, actions par appui long, titres consultés effaçables et vignettes avec infos par épisode."
+  "notes": "Navigation Retour vers les onglets du haut, chargement du direct avec étapes et actions après 25 secondes, nouvel accueil, catalogues avec positions conservées, guide dense et recherche pendant la saisie."
 }
