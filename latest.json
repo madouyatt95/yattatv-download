@@ -3,7 +3,7 @@
   "versionName": "0.21.1",
   "versionCode": 60,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/untagged-7ff83960de2479749714/YattaTv.apk",
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.21.1/YattaTv.apk",
     "size": 13906837,
     "sha256": "471eed30383759e56c00341034aed204219c99923e496bdd2eb550ce891decb9",
     "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/741755570"
