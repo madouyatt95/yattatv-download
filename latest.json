@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.21.1",
-  "versionCode": 60,
+  "versionName": "0.21.2",
+  "versionCode": 61,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.21.1/YattaTv.apk",
-    "size": 13906837,
-    "sha256": "471eed30383759e56c00341034aed204219c99923e496bdd2eb550ce891decb9",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/741755570"
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.21.2/YattaTv.apk",
+    "size": 14643837,
+    "sha256": "bed0a83debc885b4c014d8ac4e7e31958bbff0635b991f6ae2409a1941711f1e",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/742118233"
   },
-  "notes": "Navigation Retour vers les onglets du haut, chargement du direct avec étapes et actions après 25 secondes, nouvel accueil, catalogues avec positions conservées, guide dense et recherche pendant la saisie."
+  "notes": "WiTV principal : 155 chaînes et logos, avec lecteur 6 en secours sur les correspondances disponibles. Plein écran nettoyé, son automatique et filtre renforcé contre les publicités différées."
 }
