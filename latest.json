@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.21.2",
-  "versionCode": 61,
+  "versionName": "0.22.1",
+  "versionCode": 63,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.21.2/YattaTv.apk",
-    "size": 14643837,
-    "sha256": "bed0a83debc885b4c014d8ac4e7e31958bbff0635b991f6ae2409a1941711f1e",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/742118233"
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.22.1/YattaTv.apk",
+    "size": 16043335,
+    "sha256": "53a9dbd639b1e006ce4045ecc1491bddb762ecdb624b720bfe3f1e56ca16a7a4",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/746157738"
   },
-  "notes": "WiTV principal : 155 chaînes et logos, avec lecteur 6 en secours sur les correspondances disponibles. Plein écran nettoyé, son automatique et filtre renforcé contre les publicités différées."
+  "notes": "Nouvelle interface Films, Séries et Animés : panoramas, fiches immersives, affiches nettes et navigation à la télécommande. Interface rapprochée de la version iPhone. Liens LiveWatch actualisés automatiquement avant lecture et reprise ; L’Équipe vérifiée sur Shield en 1080p avec son. Récupération du moteur web renforcée. Réglages conservés et signature identique à la version publique précédente."
 }

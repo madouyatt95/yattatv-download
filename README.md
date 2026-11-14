@@ -12,7 +12,7 @@ Télécharger et installer YattaTv sur une NVIDIA Shield ou une box Android TV c
 2. Si Android le demande, autoriser Downloader à installer des applications.
 3. Confirmer l'installation, puis ouvrir **YattaTv** depuis la liste des applications.
 
-Configuration minimale : Android TV 8.0 (Android 8.0 / API 26). La version 0.18.3 a été vérifiée sur NVIDIA Shield sous Android 11 ; les autres box restent à valider.
+Configuration minimale : Android TV 8.0 (Android 8.0 / API 26). La version 0.22.1 a été vérifiée sur NVIDIA Shield sous Android 11 ; les autres box restent à valider.
 
 ## Mettre à jour
 
