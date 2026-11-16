@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.24.3",
-  "versionCode": 68,
+  "versionName": "0.24.4",
+  "versionCode": 69,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.24.3/YattaTv.apk",
-    "size": 15685478,
-    "sha256": "105a5a9b290078a601329c501842ed15f03f233473a6fdb5e887633677bcb200",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/755277661"
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.24.4/YattaTv.apk",
+    "size": 15688550,
+    "sha256": "24ebaf203849bece594da2a47c7ab0e594713432a44e490e30f0f3f24befff5d",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/755330416"
   },
-  "notes": "Portraits des acteurs et rôles sur les fiches Films et Séries. Une filmographie accessible depuis chaque portrait, des titres similaires et un retour à la sélection précédente."
+  "notes": "Les vignettes manquantes de la filmographie récupèrent l’affiche de leur fiche au fil du défilement. Portraits des acteurs, filmographies et titres similaires dans Films et Séries."
 }
