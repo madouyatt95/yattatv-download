@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.22.1",
-  "versionCode": 63,
+  "versionName": "0.24.1",
+  "versionCode": 66,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.22.1/YattaTv.apk",
-    "size": 16043335,
-    "sha256": "53a9dbd639b1e006ce4045ecc1491bddb762ecdb624b720bfe3f1e56ca16a7a4",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/746157738"
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.24.1/YattaTv.apk",
+    "size": 15674300,
+    "sha256": "c62b6f519e306b18d3b8bf229e8af8629b42497b58e131a228390d17533a4937",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/752843442"
   },
-  "notes": "Nouvelle interface Films, Séries et Animés : panoramas, fiches immersives, affiches nettes et navigation à la télécommande. Interface rapprochée de la version iPhone. Liens LiveWatch actualisés automatiquement avant lecture et reprise ; L’Équipe vérifiée sur Shield en 1080p avec son. Récupération du moteur web renforcée. Réglages conservés et signature identique à la version publique précédente."
+  "notes": "Affiches aux coins arrondis, grandes images plus nettes et moins sombres, défilement qui suit la sélection dans Films, Séries et Animés. Lecteur cinéma intégré, catalogue TV harmonisé avec l’iPhone et continuité sur le réseau local. Réglages conservés et certificat identique à la version publique 0.22.1."
 }
