@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.24.4",
-  "versionCode": 69,
+  "versionName": "0.24.6",
+  "versionCode": 71,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.24.4/YattaTv.apk",
-    "size": 15688550,
-    "sha256": "24ebaf203849bece594da2a47c7ab0e594713432a44e490e30f0f3f24befff5d",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/755330416"
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.24.6/YattaTv.apk",
+    "size": 15701366,
+    "sha256": "9f31e62a7afcc088b8edb90bbcf097595bbc4b837f248822c57bd9de14fd1dc4",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/757297398"
   },
-  "notes": "Les vignettes manquantes de la filmographie récupèrent l’affiche de leur fiche au fil du défilement. Portraits des acteurs, filmographies et titres similaires dans Films et Séries."
+  "notes": "Voir la saga depuis les fiches de films, avec les volets par ordre de sortie et le prochain film à regarder. Recherche globale d’acteurs et de réalisateurs, avec accès à leur filmographie."
 }
