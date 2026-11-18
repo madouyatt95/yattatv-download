@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.24.7",
-  "versionCode": 72,
+  "versionName": "0.24.8",
+  "versionCode": 73,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.24.7/YattaTv.apk",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/761571388",
-    "sha256": "495679aa205f3dfceb69bbff04bf7d5cc1db3c2beec60d934d7758760a928dc1",
-    "size": 15703206
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.24.8/YattaTv.apk",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/763778132",
+    "sha256": "a30dcf7f1abd38bdd02215ecaf471823fe01a641b1130551889e7b4a2450d675",
+    "size": 16219988
   },
-  "notes": "Navigation améliorée sur l’accueil et le direct, commandes plein écran regroupées, retour à l’affiche dans Films, Séries et Animés."
+  "notes": "Direct : relance du lecteur, recherche et programmes. Accueil plus compact, derniers épisodes d’animés et nouvelles fiches Films et Séries. Favoris réorganisables et commandes par écran."
 }
