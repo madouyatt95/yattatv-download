@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.24.8",
-  "versionCode": 73,
+  "versionName": "0.25.0",
+  "versionCode": 74,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.24.8/YattaTv.apk",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/763778132",
-    "sha256": "a30dcf7f1abd38bdd02215ecaf471823fe01a641b1130551889e7b4a2450d675",
-    "size": 16219988
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.25.0/YattaTv.apk",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/769984424",
+    "sha256": "a9c775ff62214f037dc770815c91ce15c368a61d88fa6685e775f28e2faf759d",
+    "size": 16254711
   },
-  "notes": "Direct : relance du lecteur, recherche et programmes. Accueil plus compact, derniers épisodes d’animés et nouvelles fiches Films et Séries. Favoris réorganisables et commandes par écran."
+  "notes": "Reprendre un épisode depuis le Direct, suivre les crossovers, chercher une réplique et séparer les séances solo et ensemble. Seconde langue sur iPhone associé pour les titres compatibles."
 }
