@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.25.0",
-  "versionCode": 74,
+  "versionName": "0.25.4",
+  "versionCode": 78,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.25.0/YattaTv.apk",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/769984424",
-    "sha256": "a9c775ff62214f037dc770815c91ce15c368a61d88fa6685e775f28e2faf759d",
-    "size": 16254711
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.25.4/YattaTv.apk",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/773958386",
+    "sha256": "13aa7b1dcfcafe087d322bd5acc206cee68dd9ed17a9ea2c4e6fa11032b95312",
+    "size": 16275034
   },
-  "notes": "Reprendre un épisode depuis le Direct, suivre les crossovers, chercher une réplique et séparer les séances solo et ensemble. Seconde langue sur iPhone associé pour les titres compatibles."
+  "notes": "Sous-titres français Gestdown à la demande pour les séries, progression des épisodes suivis et sélection audio en français."
 }
