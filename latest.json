@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.25.4",
-  "versionCode": 78,
+  "versionName": "0.25.8",
+  "versionCode": 82,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.25.4/YattaTv.apk",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/773958386",
-    "sha256": "13aa7b1dcfcafe087d322bd5acc206cee68dd9ed17a9ea2c4e6fa11032b95312",
-    "size": 16275034
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.25.8/YattaTv.apk",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/776751086",
+    "sha256": "bf12eacc232367c1573614e3973c1b616d6806d0091de4a70a6b30b9dd8466e8",
+    "size": 16287180
   },
-  "notes": "Sous-titres français Gestdown à la demande pour les séries, progression des épisodes suivis et sélection audio en français."
+  "notes": "Saudi Quran et Saudi Sunnah en HD 720p, retrait d’Algérie 5, retour aux catégories dans Direct et résultats de chaînes pendant la saisie."
 }
