@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.25.8",
-  "versionCode": 82,
+  "versionName": "0.25.9",
+  "versionCode": 83,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.25.8/YattaTv.apk",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/776751086",
-    "sha256": "bf12eacc232367c1573614e3973c1b616d6806d0091de4a70a6b30b9dd8466e8",
-    "size": 16287180
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.25.9/YattaTv.apk",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/780066064",
+    "sha256": "94a31f11f21bd9dedcd345533145445fb35a165df1ab82edaa5a610096a1a5dd",
+    "size": 16293848
   },
-  "notes": "Saudi Quran et Saudi Sunnah en HD 720p, retrait d’Algérie 5, retour aux catégories dans Direct et résultats de chaînes pendant la saisie."
+  "notes": "Les profils de visionnage séparent les favoris, listes et reprises sur un même boîtier."
 }
