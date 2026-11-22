@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.25.9",
-  "versionCode": 83,
+  "versionName": "0.26.0",
+  "versionCode": 84,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.25.9/YattaTv.apk",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/780066064",
-    "sha256": "94a31f11f21bd9dedcd345533145445fb35a165df1ab82edaa5a610096a1a5dd",
-    "size": 16293848
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.26.0/YattaTv.apk",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/780702992",
+    "sha256": "4591055f123d1033f1f0af0f768fc327f6d80028c30709b0f2cd16dee4cf6717",
+    "size": 16301864
   },
-  "notes": "Les profils de visionnage séparent les favoris, listes et reprises sur un même boîtier."
+  "notes": "EmbedOrigin puis NoxPulse pour les films et séries, retour à la fiche après arrêt et ordre des catégories du Direct personnalisable."
 }
