@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.26.0",
-  "versionCode": 84,
+  "versionName": "0.26.1",
+  "versionCode": 85,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.26.0/YattaTv.apk",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/780702992",
-    "sha256": "4591055f123d1033f1f0af0f768fc327f6d80028c30709b0f2cd16dee4cf6717",
-    "size": 16301864
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.26.1/YattaTv.apk",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/789327175",
+    "sha256": "9aae74020ea66b718868190661c83a91a321cb8388ca6e3120e838969aa60110",
+    "size": 16337750
   },
-  "notes": "EmbedOrigin puis NoxPulse pour les films et séries, retour à la fiche après arrêt et ordre des catégories du Direct personnalisable."
+  "notes": "Passer le générique quand un repère est disponible, reprise mise en avant sur l’Accueil et recherche dans les Favoris avec le filtre Nouveaux épisodes dans Ma liste."
 }
