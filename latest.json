@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.26.1",
-  "versionCode": 85,
+  "versionName": "0.26.2",
+  "versionCode": 86,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.26.1/YattaTv.apk",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/789327175",
-    "sha256": "9aae74020ea66b718868190661c83a91a321cb8388ca6e3120e838969aa60110",
-    "size": 16337750
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.26.2/YattaTv.apk",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/791929106",
+    "sha256": "e6946cf39fdd92f1e213d7a99f1a07854fe61f9681774ccd104eaf2f71321e3e",
+    "size": 16475892
   },
-  "notes": "Passer le générique quand un repère est disponible, reprise mise en avant sur l’Accueil et recherche dans les Favoris avec le filtre Nouveaux épisodes dans Ma liste."
+  "notes": "Direct revu, reprise et nouveaux épisodes mis en avant sur l’Accueil, catalogues plus lisibles et nouveau menu Matchs avec agenda, résultats et suivi des équipes."
 }
