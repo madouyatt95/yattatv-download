@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.26.3",
-  "versionCode": 87,
+  "versionName": "0.26.8",
+  "versionCode": 92,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.26.3/YattaTv.apk",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/793843224",
-    "sha256": "e1c50e8dbebfbdb1811c94ece811e9870e3bc189bb8f9d9ab1e959190e31b150",
-    "size": 16525044
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.26.8/YattaTv.apk",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/794042387",
+    "sha256": "3ae5a93dcd6424e7df80716d475ddfaca3c92665d4632e182b6eb595d12d5503",
+    "size": 15910644
   },
-  "notes": "Frise à la seconde dans Films, Séries et Animés, défilement accéléré à la télécommande, pavé de minutage, annulation du saut, repères et vignettes selon la source."
+  "notes": "NoxPulse devient le lecteur principal dans Films et Séries, avec EmbedOrigin en secours. Vignettes indépendantes de la frise précise, avec des sauts de 30 secondes ou d’une minute."
 }
