@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versionName": "0.26.2",
-  "versionCode": 86,
+  "versionName": "0.26.3",
+  "versionCode": 87,
   "apk": {
-    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.26.2/YattaTv.apk",
-    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/791929106",
-    "sha256": "e6946cf39fdd92f1e213d7a99f1a07854fe61f9681774ccd104eaf2f71321e3e",
-    "size": 16475892
+    "url": "https://github.com/madouyatt95/yattatv-download/releases/download/v0.26.3/YattaTv.apk",
+    "apiUrl": "https://api.github.com/repos/madouyatt95/yattatv-download/releases/assets/793843224",
+    "sha256": "e1c50e8dbebfbdb1811c94ece811e9870e3bc189bb8f9d9ab1e959190e31b150",
+    "size": 16525044
   },
-  "notes": "Direct revu, reprise et nouveaux épisodes mis en avant sur l’Accueil, catalogues plus lisibles et nouveau menu Matchs avec agenda, résultats et suivi des équipes."
+  "notes": "Frise à la seconde dans Films, Séries et Animés, défilement accéléré à la télécommande, pavé de minutage, annulation du saut, repères et vignettes selon la source."
 }
